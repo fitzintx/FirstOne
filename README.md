@@ -1,0 +1,2 @@
+# FirstOne
+setting up git
